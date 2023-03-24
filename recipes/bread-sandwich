@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
+
+    <body>
+        <h1>Here's a simple recipe for a bread sandwich</h1>
+        <img src="../images/bread-sandwich.jpg">
+        <h3>Three slices of bread, and voila!</h3>
+        <p>"Well, if you ever find yourself in dire financial straits, at least you can always rely on a bread sandwich to keep you fed and remind you that <em>simple pleasures can still bring joy!</em></em>"</p>
+        <div>
+            <h4>Ingredients:</h4>
+            <ul>
+                <li>3 slices of bread</li>
+                <li>Butter or margarine, softened</li>
+                <li>Salt and pepper, to taste</li>
+            </ul>
+        </div>
+        <div>
+            <h4>Instructions:</h4>
+            <ol>
+                <li>Toast one of the slices of bread until golden brown and crispy.</li>
+                <li>Spread a thin layer of butter or margarine onto the untoasted side of one of the remaining slices of bread.</li>
+                <li>Place the toasted slice of bread onto the buttered side of the bread, then season with salt and pepper to taste.</li>
+                <li>Spread another layer of butter or margarine onto the untoasted side of the other slice of bread, then place it on top of the toasted slice to create a sandwich.</li>
+                <li>Cut the sandwich into halves or quarters, if desired, and serve.</li>
+            </ol>
+        </div>
+        <div>
+            Note: This simple and humble sandwich is a classic British creation that dates back to the Victorian era, when it was often eaten by the working class as a cheap and filling meal. You can also experiment with adding different fillings, such as cheese or sliced tomatoes, to make it more flavorful. Enjoy!
+        </div>
+    </body>
